@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h2 align="left">
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Kinga Malinowska, Data Analyst :computer:<br>
@@ -8,7 +6,7 @@
 </h2> 
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-<p align="left">
+<div align="left" style="display: flex; flex-wrap: wrap;">
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
   
   <a href="https://cloud.google.com/bigquery/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="bigquery" width="40" height="40"/> </a>
@@ -26,7 +24,7 @@
   <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+</div>
 
 <h2 align="left"> About Me:</h2>
 
