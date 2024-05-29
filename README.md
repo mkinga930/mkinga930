@@ -1,34 +1,57 @@
-<h2 align="left">
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Kinga Malinowska, Data Analyst :computer:<br>
-  <br>
-  <img src="https://i.imgur.com/Zo7QyUa.png" alt="Coder GIF" width="500">
-</h2> 
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-<div align="left" style="display: flex; flex-wrap: wrap;">
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com/bigquery/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="bigquery" width="40" height="40"/> </a>
-  <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" alt="Pandas" width="90" height="40"/> </a>
-  <a href="https://www.tableau.com/" target="_blank"> <img src="https://github.com/get-icon/geticon/blob/master/icons/tableau-icon.svg" alt="Tableau" width="40" height="40"/> </a>
-  <a href="https://jupyter.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyternotebook" width="40" height="40"/> </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> </a>
-  <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</div>
+### Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
-<h2 align="left"> About Me:</h2>
+I'm **Kinga Malinowska**, Data Analyst 💻
 
-- :woman_office_worker: I'm a Test & Analysis Engineer.
-- :hourglass_flowing_sand: Exploring further Data Analytics field.
-- :rocket: Always ready to collaborate.
-- :woman_scientist: I have a Biotech background.
+<img src="https://i.imgur.com/Zo7QyUa.png" alt="Coder GIF" width="600">
+
+### 🛠️ Technologies and Tools I Use:
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
+![BigQuery](https://img.shields.io/badge/-BigQuery-000?&logo=google-cloud)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
+![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=tableau)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000?&logo=jupyter)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+
+### About Me:
+
+- 👩‍💼 I'm a Test & Analysis Engineer.
+- 💻 I transitioned to IT 3 years ago, focusing on software validation using Python.
+
+- 🎓 I completed postgraduate studies as a Python Developer, , where I was first introduced to data analysis using Pandas, 
+Numpy, and Matplotlib. This sparked my interest in the field and set the foundation for my data analytics journey.
+- 📊 Currently expanding my skills in Data Analytics at Turing College, mastering SQL, Tableau, and various analytical methods.
+
+- 🧬 I have a background in Biotechnology, where I developed a production line for a biosimilar drug and analyzed process data 
+to identify areas for improvement.
+
+- 🚀 Always ready to collaborate on exciting projects.
+
+### My Projects:
+
+- **Turing College Projects**: During my course at Turing College, I created several projects which are currently private. In these projects, I used analytical methods such as data cleaning, cohort analysis, retention analysis, churn analysis, funnel analysis, customer segmentation, RFM & CLV, and conducted A/B testing and logistic regression. 
+Tools used include BigQuery, Google Sheets, Tableau, and Python libraries (with Jupyter Notebook/Google Colab). 
+I'm happy to discuss these experiences in a private conversation.
+
+- **[Data Preliminary Adventure](https://github.com/mkinga930/data_preliminary_adventure)** -> This project involved data analysis using:
+  - **Pandas**
+  - **Numpy**
+  - **Seaborn**
+  - **Matplotlib**
+
 
 ### My Goal:
 
-Seeking opportunities as a data analyst to apply my acquired knowledge.
+Seeking opportunities as a Data Analyst to apply my acquired knowledge and solve business problems using data-driven insights.
 
-<h2 align="left">:heart: Let's get connected:</h2>
+### 📞 Let's Connect:
+- [LinkedIn](https://www.linkedin.com/in/kinga-malinowska-20a727180/)
+- [Email](mailto:mkinga930@gmail.com)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kinga_Malinowska-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kinga-malinowska-20a727180/)](https://www.linkedin.com/in/kinga-malinowska-20a727180/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&labelColor=white&logo=gmail&logoColor=D14836&link=mailto:mkinga930@gmail.com)](mailto:mkinga930@gmail.com)
+---
+#### My Work GitHub Profile:
+For more insight into my contributions, you can view my [Work GitHub Profile](https://github.com/kingamaxx) to see my activity statistics.
+
