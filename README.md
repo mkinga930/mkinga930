@@ -49,7 +49,7 @@ Tools used include **BigQuery, Google Sheets, Tableau, and Python libraries (wit
 - **[Data Preliminary Adventure](https://github.com/mkinga930/data_preliminary_adventure)** -> My first data analysis project that involved using:
   - **Pandas, Numpy, Seaborn, Matplotlib**
 
-### 🌟══════ My Goal ══════🌟
+### 🌟My Goal🌟
 
   Seeking opportunities as a Data Analyst to apply my acquired knowledge and solve business problems using data-driven insights.
 
